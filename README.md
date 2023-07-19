@@ -2,7 +2,7 @@
 Github Page for my Steam mod "Jackson's Magazines"
 Welcome to my mod!
 
-***What Does Jackson Magazine's Do?***
+***What Does Jackson's Magazines Do?***
 
 Currently Only adds mixed tracer magazines with every 2 and 4 rounds being a tracer. This mod only adds magazines and can be used with weapons that utilize 3CB and RHS magazines. This mod is only compatible with GreenMag allowing easy repacking whenever needed!
 
